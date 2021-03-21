@@ -18,3 +18,5 @@ Can't Find Email, Here it is: saadyarkhan11@gmail.com
 I am on Hangouts, but not Discord.Thanks for Downloading
 
 1.0.1 Patch Notes (Changed description mistakes)    (renamed several sub-modules)   (websear has a function now)
+
+Next Update will have fixed bugs,    Release Date -> ASAP
