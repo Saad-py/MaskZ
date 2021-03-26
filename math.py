@@ -2,45 +2,20 @@ import random
 import webbrowser as wb
 # raise ValueError('A very specific bad thing happened.')
 
-def add(a, b):
+def add(a,b):
+    return a+b
+    
+def sub(a,b):
+    return a-b
 
-    if a != int or b != int:
-        print()
-        print()
-        raise ValueError("Values should be int not str")
-    # print("Result: ")
-    elif a != str and b != str:
-        return a + b
+def div(a,b):
+    return a/b
 
-def product(a, b):
-    if a != int or b != int:
-        print()
-        print()
-        raise ValueError("Values should be int not str")
-    # print("Result: ")
-    elif a != str and b != str:
-        return a * b
-
-def div(a, b):
-    if a != int or b != int:
-        print()
-        print()
-        raise ValueError("Values should be int not str")
-    # print("Result: ")
-    elif a != str and b != str:
-        return a / b
-
-def subt(a, b):
-    if a != int or b != int:
-        print()
-        print()
-        raise ValueError("Values should be int not str")
-    # print("Result: ")
-    elif a != str and b != str:
-        return a - b
+def mult(a,b):
+    return a*b
 
 def fraction_decimal(e, f):
-    divi(e, f)
+    div(e, f)
 
 def decimal_percentage(g):
     g = float(g)
@@ -111,6 +86,3 @@ def check_the_nums(num1, num2):
 def qt():
 	quit()
 
-
-
-# 40 or 41 funcctions are done Hundreds more to go
