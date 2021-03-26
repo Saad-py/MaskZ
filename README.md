@@ -19,4 +19,5 @@ I am on Hangouts, but not Discord.Thanks for Downloading
 
 1.0.1 Patch Notes (Changed description mistakes)    (renamed several sub-modules)   (websear has a function now)
 
-Next Update will have fixed bugs,    Release Date -> ASAP
+1.2.0 Patch Notes: 1.Fixed math functions 2.Modules will be preinstalled   
+
