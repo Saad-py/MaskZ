@@ -21,3 +21,4 @@ I am on Hangouts, but not Discord.Thanks for Downloading
 
 1.2.0 Patch Notes: 1.Fixed math functions 2.Modules will be preinstalled   
 
+### Docs Coming Soon 😉
